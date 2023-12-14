@@ -6,4 +6,4 @@ streamlit
 matplotlib
 scipy
 pillow
-pil
+
